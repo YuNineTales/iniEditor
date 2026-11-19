@@ -1,0 +1,14 @@
+build/
+dist/
+*.bak_*
+*.tmp
+IniEditor_error.log
+.idea/
+*.iml
+
+# 테스트는 로컬 전용 (저장소에 올리지 않음)
+TestTemp/
+test/
+test.sh
+test.bat
+.DS_Store
