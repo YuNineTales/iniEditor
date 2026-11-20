@@ -12,3 +12,6 @@ test/
 test.sh
 test.bat
 .DS_Store
+
+# 개발 메모 (로컬 전용)
+CLAUDE.md
